@@ -1,0 +1,45 @@
+body{
+  background-color: lightgreen;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+}
+
+th {
+    height: 25px;
+}
+
+input, select {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 4px;
+}
+
+form {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+#button {
+  text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
